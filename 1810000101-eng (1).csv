@@ -1,0 +1,44 @@
+﻿"Monthly average retail prices for gasoline and fuel oil, by geography 1"
+"Frequency: Monthly"
+"Table: 18-10-0001-01 (formerly CANSIM 326-0009)"
+"Release date: 2025-04-15"
+"Geography: Canada, Census subdivision, Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"Type of fuel","Regular unleaded gasoline at self service filling stations",,,,,,,,,,,,
+"Geography","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025"
+,"Cents per litre",,,,,,,,,,,,
+"Canada","157.3","169.8","167.6","162.4","166.5","162.1","150.3","151.6","151.4","150.5","156.7","157.7","154.8"
+"St. John's, Newfoundland and Labrador","173.5","188.4","185.1","177.2","180.8","175.6","163.1","164.8","165.8","164.7","169.7","172.1","168.4"
+"Charlottetown and Summerside, Prince Edward Island","164.9","174.8","178.0","171.8","176.8","171.9","159.2","162.1","163.6","160.3","171.0","171.3","163.3"
+"Halifax, Nova Scotia","164.9","177.4","179.5","171.1","174.2","167.5","154.4","154.5","156.4","154.4","163.1","163.1","158.0"
+"Saint John, New Brunswick","163.2","176.9","172.4","166.6","170.7","165.1","152.5","154.9","156.7","155.0","160.9","163.4","157.0"
+"Québec, Quebec","164.3","177.6","179.7","166.9","174.2","166.6","155.7","154.5","154.5","154.8","159.4","158.0","154.0"
+"Montréal, Quebec","168.6","178.7","176.8","171.8","175.0","168.6","154.8","156.6","158.2","158.7","163.5","162.3","158.5"
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec 2","153.5","167.2","165.4","162.0","166.6","160.5","148.6","151.5","152.3","152.2","156.2","155.5","153.7"
+"Toronto, Ontario","153.8","167.7","165.5","162.2","166.9","160.6","148.6","151.5","152.4","151.8","156.0","155.4","153.4"
+"Thunder Bay, Ontario 3","162.2","169.1","167.5","159.6","167.0","173.1","157.2","154.7","152.9","152.1","155.5","155.1","154.8"
+"Winnipeg, Manitoba","135.5","141.5","141.4","137.1","144.6","147.0","132.3","130.9","128.0","128.1","148.5","155.5","153.0"
+"Regina, Saskatchewan","151.4","157.5","156.8","153.8","158.5","163.0","149.7","148.5","146.8","146.8","149.6","156.8","153.7"
+"Saskatoon, Saskatchewan","151.1","156.9","151.8","151.2","160.5","164.5","149.6","145.8","143.8","144.2","151.8","155.2","153.8"
+"Edmonton, Alberta 4","141.8","154.6","151.1","149.5","154.6","152.5","137.7","141.3","138.2","135.8","144.3","147.2","145.3"
+"Calgary, Alberta 4","147.0","159.6","156.0","153.6","158.8","155.4","142.9","146.5","142.4","140.8","149.2","150.0","147.9"
+"Vancouver, British Columbia","196.2","210.2","199.9","184.7","181.9","177.5","174.0","175.1","174.2","171.1","181.8","188.4","183.3"
+"Victoria, British Columbia","190.4","205.6","203.5","186.5","180.3","176.3","172.5","170.5","171.7","170.4","175.5","185.3","180.3"
+"Whitehorse, Yukon","177.3","189.0","189.9","189.9","189.9","189.9","185.4","184.9","184.9","181.5","179.9","184.9","181.6"
+"Yellowknife, Northwest Territories","157.7","161.6","162.8","162.9","164.6","162.9","162.7","162.2","162.9","162.1","162.6","162.4","162.7"
+
+
+
+
+Footnotes:
+1,"For concepts and definitions, see publication Your Guide to the Consumer Price Index, catalogue no. 62-557-X, or publication The Canadian Consumer Price Index Reference Paper, catalogue no. 62-553-X. Additional information can also be obtained by contacting the <a href="mailto:statcan.cpddisseminationunit-dpcunitedediffusion.statcan@statcan.gc.ca">Consumer Prices Division</a>."
+2,"Formerly Ottawa (Ottawa-Hull, Ontario part)."
+3,"No average retail price for diesel fuel at full service filling stations is published for Thunder Bay because it is not applicable."
+4,"No average retail price for fuel oil is published for Edmonton and Calgary because it is not applicable."
+
+
+
+"How to cite: Statistics Canada. Table 18-10-0001-01  Monthly average retail prices for gasoline and fuel oil, by geography"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101
