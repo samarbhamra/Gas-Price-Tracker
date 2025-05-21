@@ -1,0 +1,2 @@
+# config.py
+DB_URL = "postgresql://your_user:your_password@localhost:5432/gas_db"
